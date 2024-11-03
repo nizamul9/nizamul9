@@ -1,7 +1,5 @@
 
-MDShadab.Alam@cognizant.com
-12:15 AM (8 minutes ago)
-to me
+
 
 <h1 align="center">Hi 👋, I'm Md Nizamul Mustafa</h1>
 
