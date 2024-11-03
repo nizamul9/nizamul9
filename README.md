@@ -35,8 +35,7 @@
 
  
 
-<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=md-nizamul-mustafa&show_icons=true&locale=en&layout=compact alt="md-shadab-alam" /></p>
+
 
  
 
-<p>&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=md-nizamul-mustafa&show_icons=true&locale=en alt="md-shadab-alam" /></p>
