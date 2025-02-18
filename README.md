@@ -19,7 +19,7 @@
 
 <p align="left">
 
-<a href=https://github.com/nizamul9 target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="md shadab alam" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/nizamul-mustafa-2aa379286/ target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg alt="md shadab alam" height="30" width="40" /></a>
 
 <a href=https://leetcode.com/u/nizamul9999/ target="blank"><img align="center" src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg alt="shadab_86511" height="30" width="40" /></a>
 
